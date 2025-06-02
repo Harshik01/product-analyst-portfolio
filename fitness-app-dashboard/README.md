@@ -35,4 +35,4 @@
 - Turning user behavior into actionable insights  
 - Communicating like a Product Analyst
   
-![Dashboard Screenshot](chart.png)
+![Dashboard Screenshot](Dashboard.png)
